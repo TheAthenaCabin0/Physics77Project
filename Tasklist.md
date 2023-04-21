@@ -18,4 +18,5 @@
 # Sofia's Work
 - [ ] Model gravitation between two bodies 
 # Elizabeth's Work
-- [ ] Model 2D movement and position
+- [X] Model 2D movement and position
+> Completed on a very basic level, does not account for changing velocity, but allows for it to happen.
